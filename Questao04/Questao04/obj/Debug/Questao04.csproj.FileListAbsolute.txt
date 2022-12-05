@@ -1,0 +1,8 @@
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M03\Aula 03\exercicios\Questao04\Questao04\bin\Debug\Questao04.exe.config
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M03\Aula 03\exercicios\Questao04\Questao04\bin\Debug\Questao04.exe
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M03\Aula 03\exercicios\Questao04\Questao04\bin\Debug\Questao04.pdb
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M03\Aula 03\exercicios\Questao04\Questao04\obj\Debug\Questao04.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M03\Aula 03\exercicios\Questao04\Questao04\obj\Debug\Questao04.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M03\Aula 03\exercicios\Questao04\Questao04\obj\Debug\Questao04.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M03\Aula 03\exercicios\Questao04\Questao04\obj\Debug\Questao04.exe
+C:\Users\lucas\Documents\Estudos\Cursos\Digital House\M03\Aula 03\exercicios\Questao04\Questao04\obj\Debug\Questao04.pdb
